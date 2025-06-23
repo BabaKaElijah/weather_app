@@ -2,6 +2,7 @@
 
 A simple and responsive weather web application that allows users to search for current weather conditions in any city. Built with **HTML**, **CSS**, and **JavaScript**, and powered by the **OpenWeatherMap API**.
 
+![Weather App Screenshot](images/appscreenshot.PNG) <!-- Optional: Add a screenshot of your app -->
 ---
 
 ## 🚀 Features
