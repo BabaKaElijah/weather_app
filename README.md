@@ -36,7 +36,7 @@ A simple and responsive weather web application that allows users to search for 
 ---
 
 ## 📁 Folder Structure
-
+```
 project-folder/
 │
 ├── index.html # Main HTML file
@@ -50,4 +50,4 @@ project-folder/
 │ ├── humidity.png
 │ ├── wind.png
 │ └── search.png
-
+```
