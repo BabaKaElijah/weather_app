@@ -37,3 +37,17 @@ A simple and responsive weather web application that allows users to search for 
 
 ## 📁 Folder Structure
 
+project-folder/
+│
+├── index.html # Main HTML file
+├── style.css # Custom styling
+├── images/ # Weather icons
+│ ├── clear.png
+│ ├── clouds.png
+│ ├── drizzle.png
+│ ├── mist.png
+│ ├── rain.png
+│ ├── humidity.png
+│ ├── wind.png
+│ └── search.png
+
