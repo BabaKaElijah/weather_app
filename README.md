@@ -52,8 +52,6 @@ project-folder/
 │ ├── wind.png
 │ └── search.png
 ```
-## 📝 License
-This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 Ellias Sithole
